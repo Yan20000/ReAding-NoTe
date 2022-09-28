@@ -1,4 +1,4 @@
-#Class 2 notes# 9.27.2022
+# Class 2 notes# September 27,2022
 
 The Terminal: uses for find files, change direction move and copy files open files 
 make new files and folders 
@@ -25,4 +25,4 @@ ls -a means " asking for list of detail in hidden files"
 
 code . means going to visual studio code 
 
-Text Editor meaning something for you to edit text, while IDES is short for Intergrated Development Environment where it's a suite of different software all comming together. similar to Microsoft Outlook a package of text editor, a file manager, a compiler and a debugger.
+## Text Editor meaning something for you to edit text, while IDES is short for Intergrated Development Environment where it's a suite of different software all comming together. similar to Microsoft Outlook a package of text editor, a file manager, a compiler and a debugger.The during class assignment we have to read an article difference between those two, is there's huge varity of tools we can use such as Notepad for Window pc only, Text Wrangler for Mac pc, BB edit, Visual Studio made by Microsoft. Atom, Brackets or Mac,window and Linux. Sublime Text is premium use for cost of $70.
