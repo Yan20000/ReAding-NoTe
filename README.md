@@ -11,3 +11,5 @@ _3 reminders to remind myself_
 - reminder 3 _Prepare to fail, then lit up again_
 
 Link to profile: [Github Pages](https://github.com/yan20000)
+
+Link to Day2 notes [Github Pages](https://yan20000.github.io/reading-note/class2)
