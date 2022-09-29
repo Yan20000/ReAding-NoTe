@@ -13,3 +13,30 @@ Some of the example you can use for computers
 A third option is to install Git as part of the GitHub for Mac install. GitHub is repository hosting service, which we will discuss in a future section.
 
 Download GitHub for Mac via the following link:http://mac.github.com
+
+* Windows
+Git Website
+
+You can download Git by visiting this link and following the posted directions:
+
+http://git-scm.com/download/win
+
+GitHub
+
+Install Git as part of the GitHub for Windows install.
+
+http://windows.github.com
+
+* Linux
+Package Manager
+
+You can try installing Git via your distribution’s inherent package management tool.
+
+For Fedora:
+
+$ sudo yum install git
+For Ubuntu:
+
+$ sudo apt-get install git
+
+and so many more please read [link here](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
