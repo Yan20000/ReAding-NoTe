@@ -1,0 +1,15 @@
+**History of Git**
+'Open Source Software project Linux Kernel. Developer use DVCS call Bitkeeper in 2002 until 2005 started to use Git which can support large project as Version Control System in the World'
+
+**How to Get Started with git**
+First make sure it's up to date, install as package, install via another installer download and compile the source code.
+
+Some of the example you can use for computers
+* Mac OS X
+ 1. Terminal The simplest method for installing Git on a Mac (for Mavericks 10.9 and above) is running Git from the Terminal. If Git is not installed, you will see a prompt for installation.
+ 1. Git Web You can also download Git by visiting this link and following the posted directions:http://git-scm.com/download/mac
+ 1. GitHub
+
+A third option is to install Git as part of the GitHub for Mac install. GitHub is repository hosting service, which we will discuss in a future section.
+
+Download GitHub for Mac via the following link:http://mac.github.com

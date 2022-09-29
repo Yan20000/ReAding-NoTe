@@ -1,6 +1,6 @@
 # Notes September 28, 2022 Day 3 class notes
 
-** What did we learn?
+** What did we learn on Lab 3 today?
 
 Markdown, absolute path for around the spot, 
 mv /projects/courses/102/
@@ -10,7 +10,7 @@ Notes about Github.com
 *README.md is for source for files what is about, material and etc details of projects
 *The order of the list will be by alphabetize 
 
-#how Git help you to track work from work in the past. 
+# How Git help you to track work from work in the past???
 
 cannot hide the link to go different places 
 [click here to go to Github Profile!](http:www.google.com)
