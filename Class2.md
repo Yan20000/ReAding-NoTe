@@ -30,3 +30,11 @@ basic comman to use Terminal will be install
 > ## Text Editor meaning something for you to edit text, while IDES is short for Intergrated Development Environment where it's a suite of different software all comming together. similar to Microsoft Outlook a package of text editor, a file manager, a compiler and a debugger.The during class assignment we have to read an article difference between those two, is there's huge varity of tools we can use such as Notepad for Window pc only, Text Wrangler for Mac pc, BB edit, Visual Studio made by Microsoft. Atom, Brackets or Mac,window and Linux. Sublime Text is premium use for cost of $70.
 
 Please check out this article for [Mark down](https://www.markdownguide.org/basic-syntax/#links)
+
+# Class notes# for class 3 September 28,2022
+* Note 1
+* Note 2
+* Notes 3
+* Notes 4
+* Notes 5
+[Extra reading]()
