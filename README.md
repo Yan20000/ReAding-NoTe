@@ -14,8 +14,8 @@ _3 reminders to remind myself_
 
 Link to profile: [Github Pages](https://github.com/yan20000)
 
-Link to Day2 notes [Github Pages](https://yan20000.github.io/reading-note/class2)
+Link to Day2 notes [Github Pages](Class2.md)
 
-Link to Day3 notes [Github Pages](https://yan20000.github.io/reading-note/class3)
+Link to Day3 notes [Github Pages](Class3.md)
 
-Link to Day4 notes [Github Pages](https://yan20000.github.io/reading-note/class4)
+Link to Day4 notes [Github Pages](Class4.md)
