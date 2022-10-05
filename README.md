@@ -25,3 +25,5 @@ Link to Day5 notes [Github Pages](Class5.md)
 LInk to Day6 notes [Github Pages](Class6.md)
 
 Link to Day7 Notes [Github Pages](Class7.md)
+
+Link to Day8 Notes [Github Pages](Class8.md)
